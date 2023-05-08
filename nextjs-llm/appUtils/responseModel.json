@@ -1,0 +1,32 @@
+[
+	{
+		"id": "cmpl-7BqeFvYRGqzKN16EuxNEpjtEn60Dv",
+		"object": "text_completion",
+		"created": 1683058343,
+		"model": "text-davinci-003",
+		"choices": [
+			{
+				"text": "\n\nI'm doing great, thank you. How about you?",
+				"index": 0,
+				"logprobs": null,
+				"finish_reason": "stop"
+			}
+		],
+		"usage": { "prompt_tokens": 5, "completion_tokens": 14, "total_tokens": 19 }
+	},
+	{
+		"id": "cmpl-7BqmavYWQJqE62av2xLFszA1xI846",
+		"object": "text_completion",
+		"created": 1683058860,
+		"model": "text-davinci-003",
+		"choices": [
+			{
+				"text": "\n\nI'm doing great, thanks for asking!",
+				"index": 0,
+				"logprobs": null,
+				"finish_reason": "stop"
+			}
+		],
+		"usage": { "prompt_tokens": 5, "completion_tokens": 11, "total_tokens": 16 }
+	}
+]
