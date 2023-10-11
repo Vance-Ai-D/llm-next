@@ -35,15 +35,6 @@ print(createSiteChain.run(os.environ["website"]))
 
 
 
-
-
-
-
-
-
-
-# os.environ["OPENAI_API_KEY"] = "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"
-
 #KEY_CHECK
 # key = "OPENAI_API_KEY"
-# print("KeyFound?..." + os.environ.get(key).lstrip("sk-iZwVMrEeSSgqI773up90T3BlbkFJtR9LI5vwSp"))
+# print("KeyFound?..." + os.environ.get(key).lstrip(os.environ["OPENAI_API_KEY"]))
