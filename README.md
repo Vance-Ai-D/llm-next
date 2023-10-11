@@ -7,5 +7,5 @@ Framework:
 
 Roadmap
 - [X] - Basic framework setup, call to api and response shown on screen - 20230504
-- [] - Logging, tracing, performance metrics
-- [] - Configure advanced chains, tools, agents
+- [X] - Logging, tracing, performance metrics
+- [X] - Configure advanced chains, tools, agents
